@@ -1,0 +1,1 @@
+python detect.py --weights yolov9-e-converted.pt --source 0 --conf 0.4
